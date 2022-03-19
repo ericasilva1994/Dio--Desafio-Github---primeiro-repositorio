@@ -1,0 +1,37 @@
+#pilares do pensamento computacional
+
+Decomposição
+Reconhecimento de padrões
+Abstração 
+Algoritmos
+
+
+decomposição 
+ordem de execução das tarefas menores, pode ser sequencial ou paralela.
+
+sequencial é a dependênca entre tarefas executadas em " fila"
+paralelo são tarefas que podem ser executadas concomitantemente
+como decompor ? identifique os componentes e caracteristicas dependentes
+
+Reconhecimento de padrões
+extração de caracteristicas e classificação de dados 
+
+
+Abstração
+Abstrair: observar um ou mais elementos avaliando características e propriedades em separado,
+Abstração : Processo intelectual de isolameto de um objeto da realidade
+Generalizar: Tornar-se geral, mais amplo, extensão
+É necessário identificar os pontos essenciais e não considerar os detalhes nesse momento
+conceitos baseados em abstrações: Merge Sort, Clusteting, Busca Binária, lista, árvore, grafos, liguagens de programação
+
+Algoritmo
+Instruções com passo a passo 
+
+Como construir um algoritmo?
+
+Compreensão do problema ( pontos mais importantes)
+Definição dos dados de entrada ( Dados fornecidos e cenário)
+Definir processamento ( Cálculos e restrições)
+Definir dados de saída ( Após processamento)
+Utilizar um método de construção 
+Teste e diagnóstico ( construção e refinamento do algoritmo)

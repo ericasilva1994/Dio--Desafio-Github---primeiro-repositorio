@@ -1,0 +1,15 @@
+#Programar não é digitar códigos é resolver problemas
+
+70% da programação é a tomada de decisão e a estrutura de repetição
+
+Algoritmo é uma sequência de passos qe resolve um problema
+
+Link para download do programa para executar pseudocodigo > http://www.flowgorithm.org
+
+sites indicados para desenvolver lógica e programação básica:
+
+Https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+https://studio.code.org/s/mc/stage/1/puzzle/1
+https://rachacuca.com.br/
+
+escrever a rotina diária em algoritmo 
